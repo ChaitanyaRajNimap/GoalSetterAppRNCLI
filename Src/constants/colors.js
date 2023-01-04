@@ -1,0 +1,11 @@
+export const PRIMARY_BLACK = '#000';
+export const PRIMARY_WHITE = '#fff';
+export const PRIMARY_BGCOLOR = '#1e085a';
+export const PRIMARY_GOAL_COLOR = '#5e0acc';
+export const PRIMARY_RIPPLE = '#dddddd';
+export const PRIMARY_BACKGROUND = '#311b6b';
+export const SECONDARY_BACKGROUND = '#e4d0ff';
+export const PRIMARY_TEXTINPUT = '#120438';
+export const PRIMARY_BUTTON = '#f31282';
+export const SECONDARY_BUTTON = '#b180f0';
+export const TERNARY_BUTTON = '#a065ecc';
