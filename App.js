@@ -86,3 +86,5 @@ const styles = StyleSheet.create({
     flex: 5,
   },
 });
+
+//Checking file using sonarqube
